@@ -1,0 +1,7 @@
+{"xpath":
+  {  
+   "product":"//div[contains(text(),'Dolo')]",
+   "itemcount":"//span[@class='counter-number']"},
+  "id":
+  {"searchbutton":"search"}
+}
